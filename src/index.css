@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Basier Circle';
+	src: url('fonts/BasierCircle/basiercircle-regular.otf') format('otf'),
+  url('fonts/BasierCircle/BasierCircle-Regular.woff') format('woff')
+}
+
+
+body{
+  font-family: 'Basier Circle';
+}
+.noocotitle{
+  color: rgba(68,220,195,1);
+}
+
